@@ -1,27 +1,27 @@
 export const UserData = {
-  name: "Rahul Vijay",
-  about : "I'm a front end developer that learned everything on my own. I specialize in creating dynamic, accessible websites that work on any device. Furthermore, I regularly create creative solutions that improve user experiences. I am proficient in React.js, Redux, JavaScript, HTML5, and CSS. I guarantee efficient code management and communication thanks to my knowledge with Git version control. Likewise, I'm also skilled at developing apps using mini program studio frameworks and exceeding client expectations with my high-caliber solutions.",
-  resumeUrl : "https://drive.google.com/file/d/1LSVLVmJA_3fhWtZPc_d_pHnkXhL4s-Oc/view",
-  FooterLink : "https://www.linkedin.com/in/rahulvijay81/",
+  name: "Sahil Rai",
+  about : "I'm a front end developer that learned everything on my own. I specialize in creating dynamic, accessible websites that work on any device. Furthermore, I regularly create creative solutions that improve user experiences. I am proficient in React.js, JavaScript, HTML5, and CSS. I guarantee efficient code management and communication thanks to my knowledge with Git version control. Likewise, I'm also skilled at developing apps using mini program studio frameworks and exceeding client expectations with my high-caliber solutions.",
+  resumeUrl : "https://drive.google.com/drive/folders/1oUXk9GYVSmZ_uVY9sRzvIJcjOoTolCMb",
+  FooterLink : "https://www.linkedin.com/in/sahil-rai-495baa239/",
   socialMedia: [
     {
       socialMediaName: "github",
-      url: "https://github.com/rahulvijay81",
+      url: "https://github.com/sahilrai100",
       icon: "AiFillGithub",
     },
     {
       socialMediaName: "linkedin",
-      url: "https://www.linkedin.com/in/rahulvijay81/",
+      url: "https://www.linkedin.com/in/sahil-rai-495baa239/",
       icon: "FaLinkedinIn",
     },
     {
       socialMediaName: "twitter",
-      url: "https://twitter.com/rahulvijay8156",
+      url: "https://x.com/sahilrai17480",
       icon: "AiOutlineTwitter",
     },
     {
       socialMediaName: "instagram",
-      url: "https://instagram.com/rahulvijay81",
+      url: "https://www.instagram.com/_rai_sahil/",
       icon: "AiFillInstagram",
     },
   ],
