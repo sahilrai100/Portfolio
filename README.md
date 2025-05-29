@@ -24,7 +24,7 @@ For more information about deploying a React application, refer to the [deployme
 
 1. Clone this repository to your local machine:
    ```
-   git clone https://github.com/rahulvijay81/portfolio.git
+   git clone https://github.com/sahilrai100/portfolio.git
    ```
 
 2. Navigate to the project directory:
