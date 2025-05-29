@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-![Sahil-Portfolio](https://user-images.githubusercontent.com/118264222/224553983-d0782a0a-7fb0-479e-a491-c7124b286d03.png)
+![Sahil-Portfolio](https://drive.google.com/file/d/1G06A2jvyxZhSWzmuV2ctrcu8DjlCtn4L/view?usp=drive_link)
 
 ![Sahil-rai](https://github.com/sahilrai100/portfolio/Assets/118264222/a01b51ac-3908-4f70-9a02-5fdaecf570fc)
 
@@ -42,7 +42,7 @@ For more information about deploying a React application, refer to the [deployme
    npm run dev
    ```
 
-The website will be available at `http://localhost:5173` in your web browser.
+The website will be available at `http://localhost:5173/` in your web browser.
 
 ## Featured 
 
