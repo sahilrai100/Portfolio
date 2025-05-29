@@ -1,6 +1,6 @@
 # Contributing to Sahil Rai Portfolio
 
-Thank you for your interest in contributing to Rahul Vijay's portfolio! Your contributions are valuable and can help enhance the overall quality of the portfolio. Whether you're fixing a bug, adding a feature, or suggesting improvements, your efforts are appreciated.
+Thank you for your interest in contributing to Sahil rai's portfolio! Your contributions are valuable and can help enhance the overall quality of the portfolio. Whether you're fixing a bug, adding a feature, or suggesting improvements, your efforts are appreciated.
 
 ## Getting Started
 
