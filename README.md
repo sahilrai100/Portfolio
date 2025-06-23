@@ -1,6 +1,5 @@
 # Personal Portfolio
 
-<!-- Sahil-Portfolio -->
 
 ![Sahil-rai](https://github.com/sahilrai100/portfolio/Assets/118264222/a01b51ac-3908-4f70-9a02-5fdaecf570fc)
 
