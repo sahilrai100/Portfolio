@@ -8,16 +8,16 @@ export const ProjectsList = {
         "React JS",
         "python",
         "django",
-       "sqlite3",
+        "sqlite3",
         "CSS",
         "javascript",
       ],
     },
     {
-      name: "Tweet bar app",
+      name: "Tweet bar",
       description:
-      "The Tweet Bar App is a simple web-based platform where users can post short tweets, similar to Twitter. Users can create, view, and edit their own tweets with a clean and responsive UI. It uses Django for backend and HTML/CSS with JavaScript for the frontend. This project demonstrates core CRUD operations, authentication, and user-specific content management.",
-            technologies: [
+        "The Tweet Bar App is a simple web-based platform where users can post short tweets, similar to Twitter. Users can create, view, and edit their own tweets with a clean and responsive UI. It uses Django for backend and HTML/CSS with JavaScript for the frontend. This project demonstrates core CRUD operations, authentication, and user-specific content management.",
+      technologies: [
         "python",
         "django",
         "bootstrap",
@@ -25,7 +25,6 @@ export const ProjectsList = {
         "sqlite3",
       ],
     },
-   
     {
       name: "Music player",
       description:
@@ -38,12 +37,17 @@ export const ProjectsList = {
         "The Netflix Clone is a static frontend project that replicates the homepage of Netflix using only HTML and CSS. It features a clean layout with a hero banner, navbar, movie thumbnails, and responsive design",
       technologies: ["html","css"],
     },
+   
+    
     {
       name: "Personal Portfolio",
       description:
         "My portfolio is a website built with React.js and Tailwind CSS, utilizing React Router v6 to enable easy access to multiple pages. It was designed and created entirely by myself, showcasing my skills and projects. The website is responsive and visually appealing, providing a user-friendly experience.",
       technologies: ["React JS", "Tailwind CSS", "Git", "GitHub", "html","javascript"],
     },
+    
+   
+  
    
   ],
 };
