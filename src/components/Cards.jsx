@@ -42,6 +42,16 @@ function Cards() {
               </p>
             ))}
           </div>
+          {project.github && (
+            <a
+              href={project.github}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="mt-2 inline-block text-blue-600 hover:underline font-semibold"
+            >
+              View on GitHub
+            </a>
+          )}
         </div>
       ))}
     </>

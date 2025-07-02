@@ -1,7 +1,7 @@
 export const UserData = {
   name: "Sahil Rai",
   about : "I'm a full stack developer that learned everything on my own. I specialize in creating dynamic, accessible websites that work on any device. Furthermore, I regularly create creative solutions that improve user experiences. I am proficient in python, React.js, JavaScript, HTML, and CSS. I am familiar with git, github and django. I guarantee efficient code management and communication thanks to my knowledge with Git version control. Likewise, I'm also skilled at developing apps using mini program studio frameworks and exceeding client expectations with my high-caliber solutions.",
-  resumeUrl : "https://drive.google.com/file/d/1uctn-r0WlgL2dPM8cJJ2MFIfu_FLTJGr/view?usp=sharing",
+  resumeUrl : "https://drive.google.com/file/d/10QW2mOcrUN815jP02lBXsbEgdGHpkD_R/view?usp=drive_link",
   FooterLink : "https://www.linkedin.com/in/sahil-rai-495baa239/",
   socialMedia: [
     {
